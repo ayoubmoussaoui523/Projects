@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1612698365 source:c:\users\ayoub\desktop\cree_bib\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	"bib.h"
+
+1612054146 c:\users\ayoub\desktop\cree_bib\bib.h
+
+1612567755 source:c:\users\ayoub\desktop\cree_bib\bib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<unistd.h>
+
+1612867239 source:c:\users\ayoub\desktop\gestion de la bibliotheque\bib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<unistd.h>
+
+1612865966 source:c:\users\ayoub\desktop\gestion de la bibliotheque\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	"bib.h"
+
+1612827773 c:\users\ayoub\desktop\gestion de la bibliotheque\bib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
